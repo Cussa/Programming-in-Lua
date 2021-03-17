@@ -1,3 +1,7 @@
+--[[
+Exercise 1.1: Run the factorial example. What happens to your program if you enter a negative number?
+Modify the example to avoid this problem.
+--]] --
 -- defines a factorial function
 function Fact(n)
     if n == 0 then
